@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(to right, #0000, #FFFF);
+}
+form{
+    text-align: center;
+    margin-top: 150px;
+}
+p{
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.result{
+    margin-left: 100px;
+}
